@@ -1,0 +1,8 @@
+Nov 13 09:15:22 server sshd: Failed password for admin from 192.168.1.50
+Nov 13 09:16:03 server sshd: Accepted password for user from 192.168.1.20
+Nov 13 09:17:10 server sshd: Failed password for root from 192.168.1.50
+Nov 13 09:18:22 server sshd: Failed password for admin from 192.168.1.50
+Nov 13 09:19:44 server sshd: Failed password for guest from 10.0.0.25
+Nov 13 09:20:15 server sshd: Accepted password for analyst from 10.0.0.30
+Nov 13 09:21:02 server sshd: Failed password for root from 192.168.1.50
+

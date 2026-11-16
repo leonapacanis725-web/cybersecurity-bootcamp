@@ -1,0 +1,5 @@
+Nov 08 10:15:22 penguin sshd: Failed password for invalid user admin from 192.0.2.10 port 51422 ssh2
+Nov 08 10:16:10 penguin sshd: Failed password for invalid user test from 192.0.2.10 port 51425 ssh2
+Nov 08 10:17:05 penguin sshd: Failed password for invalid user root from 192.0.2.15 port 51430 ssh2
+Nov 08 10:18:42 penguin sshd: Failed password for invalid user admin from 192.0.2.10 port 51435 ssh2
+Nov 08 10:20:12 penguin sshd: Accepted password for user from 192.0.2.20 port 51440 ssh2

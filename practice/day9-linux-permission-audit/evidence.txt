@@ -1,0 +1,7 @@
+-rw------- (600) private-notes.txt
+-rw-r--r-- (644) public-notes.txt
+-rw-rw-rw- (666) shared-file.txt
+-rw-r--r-- (644) evidence.txt
+-rw------- (600) private-notes.txt
+-rw-r--r-- (644) public-notes.txt
+-rw------- (600) shared-file.txt

@@ -1,0 +1,17 @@
+total 403408
+drwxr-xr-x 1 leonapacanis725 leonapacanis725        28 Nov  5 19:27 analyst_workspace
+drwxr-xr-x 1 leonapacanis725 leonapacanis725       248 Sep 29 19:18 Better-Hacker
+drwxr-xr-x 1 leonapacanis725 leonapacanis725       184 Oct  6 17:31 BurpSuite
+-rwxr-xr-x 1 leonapacanis725 leonapacanis725 413066370 Aug 20 11:27 burpsuite.sh
+-rw-r--r-- 1 leonapacanis725 leonapacanis725         0 Nov  9 14:16 evidence.txt
+-rwx------ 1 leonapacanis725 leonapacanis725       394 Nov  6 19:09 ip_triage.sh
+drwxr-xr-x 1 leonapacanis725 leonapacanis725        70 Sep 30 19:07 linux-security-basics
+-rw-r--r-- 1 leonapacanis725 leonapacanis725         0 Sep 28 16:13 linux-security-basics.txt
+-rwx------ 1 leonapacanis725 leonapacanis725       600 Nov  5 19:21 log_backup.sh
+drwxr-xr-x 1 leonapacanis725 leonapacanis725        48 Oct  5 17:48 network-traffic-analysis
+drwxr-xr-x 1 leonapacanis725 leonapacanis725       396 Nov  9 13:57 practice
+-rw-r--r-- 1 leonapacanis725 leonapacanis725      7770 Nov  4 19:02 script.sh
+-rwxr-xr-x 1 leonapacanis725 leonapacanis725       230 Nov  4 19:12 script.sh~
+drwxr-xr-x 1 leonapacanis725 leonapacanis725        86 Oct  7 18:11 soc-alert-investigation
+drwxr-xr-x 1 leonapacanis725 leonapacanis725        48 Oct  5 19:01 web-security-analysis
+drwxr-xr-x 1 leonapacanis725 leonapacanis725        84 Oct  3 18:29 windows-security-investigation
