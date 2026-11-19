@@ -21,6 +21,7 @@ A collection of hands-on cybersecurity exercises completed while developing prac
 - Python Failed Login Analyzer
 - Python Security Log Analyzer
 - Science and Cybersecurity Investigation
+- [Phishing Email Investigation — SOC Analyst Training](phishing-email-investigation/)
 
 ### Automation and System Administration
 - Cron Automation
