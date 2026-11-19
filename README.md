@@ -22,6 +22,7 @@ A collection of hands-on cybersecurity exercises completed while developing prac
 - Python Security Log Analyzer
 - Science and Cybersecurity Investigation
 - [Phishing Email Investigation — SOC Analyst Training](phishing-email-investigation/)
+- [CVE Vulnerability Triage — Log4Shell (CVE-2021-44228)](cve-vulnerability-triage/)
 
 ### Automation and System Administration
 - Cron Automation
